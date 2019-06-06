@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: A foundry for new things
+image: /img/storm_king_1.jpg
+heading: A foundry for new things
+subheading: Make your ideas a reality with us
 mainpitch:
   title: Why Kaldi
   description: >
