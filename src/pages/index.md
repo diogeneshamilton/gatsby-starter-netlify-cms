@@ -2,7 +2,7 @@
 templateKey: index-page
 title: A foundry for new things
 image: /img/storm_king_1.jpg
-heading: A foundry for new things
+heading: A NYC-based foundry for new things
 subheading: Make your ideas a reality with us
 mainpitch:
   title: Why Kaldi
